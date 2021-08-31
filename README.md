@@ -2,6 +2,7 @@
 Excel.Application でファイルを開くダイアログを使用する
 ## add settings.json ( Code Runner )
 ```javascript
+    "code-runner.showRunIconInEditorTitleMenu": false,
     "code-runner.executorMapByFileExtension": {
         ".wsf": "cscript //Nologo"
     }
